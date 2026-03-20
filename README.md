@@ -87,4 +87,4 @@ It leverages modern browser APIs to:
 
 ### Option 1 — CDN
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ataliweb/instantfetch-pro/dist/instantfetch.min.js"></script>
+<script src="[https://cdn.jsdelivr.net/gh/ataliweb/instantfetch-pro/dist/instantfetch.min.js](https://cdn.jsdelivr.net/gh/ataliweb/instantfetch@main/instantfetch.min.js)"></script>
